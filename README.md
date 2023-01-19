@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/giannismparous?tab=repositories)**
 
-- 💬 Ask me about **Java, Python, C++, SQL, AI, Android**
+- 💬 Ask me about **Java, C#, Python, C++, SQL, AI, Android**
 
 - ⚡ Fun fact **I love coding.**
 
