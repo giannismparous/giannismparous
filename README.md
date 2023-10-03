@@ -32,15 +32,6 @@
 
 <br>
 
- ## 📊 My Github Stats 
-
-<p>
-    <img alt="Giannis Mparous' Github Stats" src="https://github-readme-stats.vercel.app/api?username=giannismparous&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Giannis Mparous' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannismparous&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-/></p>
-
-<br>
-
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/giannismparous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giannismparous" height="30" width="40" /></a>
