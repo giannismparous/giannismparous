@@ -9,13 +9,13 @@
 
 - :mortar_board: I’m a student at  **[Athens University of Economics and Business](https://www.aueb.gr/)** 
 
-- 🔭 I’m currently working on **graduating from uni**
+- 🔭 I have just graduated and look forward to work on interesting projects
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/giannismparous?tab=repositories)**
 
 - 💬 Ask me about **Java, C#, Python, C++, SQL, AI, Android**
 
-- ⚡ Fun fact **I love coding.**
+- ⚡ Fun fact **I'm a self development enthusiast**
 
 - 📫 How to reach me **giannismparous@gmail.com**
 
